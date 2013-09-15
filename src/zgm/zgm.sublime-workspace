@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"count",
+				"countUser"
+			],
+			[
+				"Acc",
+				"Account"
+			],
+			[
+				"us",
+				"userdata"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"ta",
+				"thead	Tag"
+			],
+			[
+				"lastlog",
+				"lastlogintime"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"i",
+				"input_group"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"admin",
+				"adminRules"
+			],
+			[
+				"editac",
+				"editaccount"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"user",
+				"uservalue"
+			],
+			[
+				"Account",
+				"AccountController"
+			],
+			[
+				"required",
+				"required"
+			],
+			[
+				"acc",
+				"account_conf"
+			],
+			[
+				"account",
+				"account_conf"
+			],
+			[
+				"accou",
+				"account_conf"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes.php",
+			"settings":
+			{
+				"buffer_size": 2146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 2342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/AccountController.php",
+			"settings":
+			{
+				"buffer_size": 2408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/account/get/addminecraft.blade.php",
+			"settings":
+			{
+				"buffer_size": 1495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "commands/Minecraft.php",
+			"settings":
+			{
+				"buffer_size": 1959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/account/get/minecraft.blade.php",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 979,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Account.php",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/account/get/profile.blade.php",
+			"settings":
+			{
+				"buffer_size": 3509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/XAMPP/xamppfiles/htdocs/public/js/zgm.js",
+			"settings":
+			{
+				"buffer_size": 5138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 3802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/admin/accounts.blade.php",
+			"settings":
+			{
+				"buffer_size": 4190,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/public/css/zgm.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/account.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/app.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/layouts/master.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/get/profile.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/models/Account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/get/addminecraft.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/register.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/login.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/help.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/public/js/zgm.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/filters.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/layouts/member.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/lang/th/account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/admin/accounts.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/addaccount.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/get/addaccount.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/HomeController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/cache.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/AdminController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/AccountController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/lang/th/validation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/admin/editaccount.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/admin/register.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/admin/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/lang/th/register.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/pagination/bootstrap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/account/post/addaccount.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/hello.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/models/Permission.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/BaseController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/models/Hooks.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/config/session.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/models/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/storage/sessions/sess_278bnv10eqav2are9d05j0vf15",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/NewsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/views/member/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/zgm/controllers/MemberController.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/controllers/HomeController.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/controllers/MemberController.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/models/User.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/models/Account.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/filters.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/routes.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/config/auth.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm.sublime-project",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/controllers/AdminController.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/controllers/NewsController.php",
+		"/Volumes/DataCenter/Works/laravel-master/zgm/controllers/MemberController",
+		"/Volumes/DataCenter/Works/laravel-master/app/controllers/HomeController.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes.php",
+					"settings":
+					{
+						"buffer_size": 2146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/HomeController.php",
+					"settings":
+					{
+						"buffer_size": 2342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controllers/AccountController.php",
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1315,
+								1315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/account/get/addminecraft.blade.php",
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "commands/Minecraft.php",
+					"settings":
+					{
+						"buffer_size": 1959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1397,
+								1397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/account/get/minecraft.blade.php",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/login.blade.php",
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "models/Account.php",
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "views/account/get/profile.blade.php",
+					"settings":
+					{
+						"buffer_size": 3509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3509,
+								3509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Applications/XAMPP/xamppfiles/htdocs/public/js/zgm.js",
+					"settings":
+					{
+						"buffer_size": 5138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2360,
+								2360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1027.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "views/layouts/master.blade.php",
+					"settings":
+					{
+						"buffer_size": 3802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3747,
+								3747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 498.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "views/admin/accounts.blade.php",
+					"settings":
+					{
+						"buffer_size": 4190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3183,
+								3183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

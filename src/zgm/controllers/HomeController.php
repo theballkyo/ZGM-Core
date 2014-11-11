@@ -97,5 +97,10 @@ class HomeController extends BaseController {
 
 	}
 
+	public function tester()
+	{
+		return "Hello";
+	}
+
 
 }
